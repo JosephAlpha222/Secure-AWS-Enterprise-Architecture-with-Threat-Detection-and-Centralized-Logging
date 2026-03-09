@@ -295,7 +295,7 @@ This project demonstrates practical experience with:
 
 # Author
 
-Cloud Security Engineering Portfolio Project
+JosephAlpha222 Portfolio Project
 
 Focus Areas:
 
